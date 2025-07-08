@@ -21,7 +21,7 @@ A simple C# console application that connects to a MySQL database and performs b
 - MySql.Data NuGet package
 
 
-## 🗃 MySQL Database Setup
+##  MySQL Database Setup
 
 Before running the app, create the database and table:
 
